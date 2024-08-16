@@ -104,7 +104,7 @@ http://humsab.xyz/IN_FLIX/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/andprive.png",& Prive HD
 http://humsab.xyz/IN_PRIVEHD/index.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorsinfinnity.png",Colors Infinnity
+#EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorsinfinity.png",Colors Infinity
 http://humsab.xyz/IN_IN/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/moviesnow.png",Movies Now
@@ -113,7 +113,7 @@ http://humsab.xyz/IN_NOW/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo.png",HBO HD
 http://humsab.xyz/IN_HB/index.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo.png",HBO 2 HD
+#EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo2.png",HBO 2 HD
 http://humsab.xyz/IN_HB2/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonypix.png",Sony PIX HD
@@ -143,10 +143,10 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=536384&ex
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports3.png",BEIN Sports 3 HD (English)
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=536385&extension=ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/eurosports1.png",Eurosports 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/eurosport1.png",Eurosport 1 HD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=13986&extension=ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/eurosports2.png",Eurosports 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/eurosport2.png",Eurosport 2 HD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=13881&extension=ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/tntsports1.png",TNT Sports 1 HD
