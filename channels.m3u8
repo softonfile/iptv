@@ -12,34 +12,53 @@ http://humsab.xyz/IN_DiscoveryFhd/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nationalgeographic.png",National Geographic HD (IN)
 http://humsab.xyz/IND_NationalGeoHD/index.m3u8
 
-##EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/historytv18.png",History TV (IN)
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/historytv18.png",History TV (IN)
 http://humsab.xyz/IND_HistoryFHD/index.m3u8
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/travelxp.png",Travel XP (IN)
+http://humsab.xyz/IN_TRAVELXP/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/tlc.png",TLC (IN)
+http://humsab.xyz/IND_TLCHIND/index.m3u8
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cartoonnetwork.png",Cartoon Network
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/boomerang.png", Boomerang 
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:15:0C:4B&stream=292432&extension=ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cartoonnetwork.png",Cartoon Network (IN)
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/pogo.png",Pogo
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/chuchutv.png", Chuchu TV (24x7)
+http://ekdilhai.pro/kids247/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/disneychannel.png", Disney Channel (IN)
+http://ekdilhai.pro/IN_DISH/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoverykids.png", Discovery Kids (IN)
+http://ekdilhai.pro/IN_DiscoveryKids/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/gubbare.png",Gubbare (IN)
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hungama.png",Hungama (IN)
+http://ekdilhai.pro/IN__KG/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/pogo.png",Pogo (IN)
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nick.png", Nickelodeon
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=13914&extension=ts
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonic.png",Nickelodeon Sonic
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonic.png",Nickelodeon Sonic (IN)
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:15:0C:4B&stream=631725&extension=ts
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/boomerang.png", Boomerang
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:15:0C:4B&stream=292432&extension=ts
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/gubbare.png",Gubbare
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeetv.png",Zee TV
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=22878&extension=ts
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:5E:6A:FF&stream=1471380&extension=ts
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeecinema.png",Zee Cinema
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631830&extension=ts
@@ -52,6 +71,9 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631822&ex
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zing.png",Zing
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631852&extension=ts
+
+
+
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorstv.png",Colors
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=22891&extension=ts
@@ -68,6 +90,8 @@ http://humsab.xyz/IN_IN/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorscineplexbollywood.png",Colors Cineplex Bollywood
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631827&extension=ts
 
+
+
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/andtv.png",& TV HD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=356856&extension=ts
 
@@ -80,14 +104,13 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=104809&ex
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax.png",Sony Max HD (UK)
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=104808&extension=ts
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysab.png",Sony Sab
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=70165&extension=ts
-
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonypal.png",Sony Pal
 http://ekdilhai.pro/IND_SONYPALHd/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysab.png",Sony Sab
 http://humsab.xyz/IN_SABG/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starplus.png",Star Plus HD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=79406&extension=ts
@@ -102,10 +125,13 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631808&ex
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=294975&extension=ts
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/b4umovies.png",B4U Movies
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=58156&extension=ts
+http://humsab.xyz/In_B4/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/epic.png",Epic TV
 http://ekdilhai.pro/IN_EPIC/index.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/dangaltv.png",Dangal TV
+http://humsab.xyz/IN_Dangal/index.m3u8
 
 
 
@@ -137,6 +163,9 @@ http://humsab.xyz/IN_SONYBBCHD/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/comedycentral.png",Comedy Central HD
 http://humsab.xyz/IN_CD/index.m3u8
 
+#EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/peacetv.png",Peace TV (Eng)
+http://ekdilhai.pro/IN_PeaceTVEng/index.m3u8
+
 
 
 
@@ -145,6 +174,18 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=772359&ex
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starsports2hd.png",Star Sports 2 HD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=772360&extension=ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports1.png", Sony Sports 1 HD
+http://ekdilhai.pro/SPTEN1HD/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports2.png", Sony Sports 2 HD
+http://ekdilhai.pro/IN_SNT2/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports3.png", Sony Sports 3 HD
+http://ekdilhai.pro/tenso3/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports5.png", Sony Sports 5 HD
+http://humsab.xyz/S_Ten5/index.m3u8
 
 ##EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/tsports.png",T Sports HD
 ##https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=mXXJieA0HsZjonZhhIwARA&expires=1723840155&user=c28278b7cc41459ea95c1d05df91e3e7
@@ -178,8 +219,14 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=82258&ext
 
 
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/asiantv.png",Asian TV
+http://ekdilhai.pro/BD_ASIANTV/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/atnbangla.png",ATN Bangla 
+http://ekdilhai.pro/atn_bangla_uk/index.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/atnnews.png",ATN News
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=349611&extension=ts
+http://ekdilhai.pro/BD_ATNNEWS/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/jamunatv.png",Jamuna TV
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=349643&extension=ts
@@ -228,3 +275,25 @@ http://humsab.xyz/IN_ZEBS/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeebanglacinema.png",Zee Bangla Cinema
 http://humsab.xyz/IN_ZEBC/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/arydigitalhd.png",ARY Digital HD
+http://humsab.xyz/PAK_ARYTVG/index.m3u8
+
+#EXTINF:-1 group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/humtv.png",HUM TV HD
+http://humsab.xyz/PAK_HUMTVG/index.m3u8
+
+#EXTINF:-1 group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/peacetvurdu.png",Peace TV Urdu HD
+http://ekdilhai.pro/PeaceTV/index.m3u8
+
+#EXTINF:-1 group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/urdu1.png",Urdu 1 HD
+http://humsab.xyz/PAK_urdu1/index.m3u8
+
+#EXTINF:-1 group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/ptvhome.png",PTV Home
+http://humsab.xyz/PAK_PTVHOME/index.m3u8
+
+#EXTINF:-1 group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/kashishtv.png",Kashish TV
+http://humsab.xyz/PAK_KASHISH/index.m3u8
