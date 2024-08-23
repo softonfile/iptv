@@ -230,7 +230,7 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=82258&ext
 
 
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/asiantv.png",Ananda TV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/anandatv.png",Ananda TV
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=847763&extension=ts
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/asiantv.png",Asian TV
@@ -247,6 +247,9 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=349616&ex
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/btv.png",BTV
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=848048&extension=ts
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channel24.png", Channel 24
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=349621&extension=ts
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channeli.png",Channel I
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=349617&extension=ts
@@ -265,9 +268,6 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=771494&ex
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/jamunatv.png",Jamuna TV
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=349643&extension=ts
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/news24.png",News 24
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=349621&extension=ts
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nexustv.png",Nexus TV
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=847755&extension=ts
