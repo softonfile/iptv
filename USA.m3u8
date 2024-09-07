@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/aande.png",A&E
+http://tv.cloudcdn.me:80/live.ts?channelId=126200&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/anericanheroschannel.png",American Heroes Channel
+http://tv.cloudcdn.me:80/live.ts?channelId=126201&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cbsreality.png",CBS Reality
+http://tv.cloudcdn.me:80/live.ts?channelId=126202&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/courttv.png",Court TV
+http://tv.cloudcdn.me:80/live.ts?channelId=126203&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/crimeplusinvestigation.png",Crime+ Investigation
+http://tv.cloudcdn.me:80/live.ts?channelId=126204&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/curiositychannel.png",Curiosity Channel
+http://tv.cloudcdn.me:80/live.ts?channelId=126205&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discovery.png",Discovery
+http://tv.cloudcdn.me:80/live.ts?channelId=126206&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryscience.png",Discovery Science
+http://tv.cloudcdn.me:80/live.ts?channelId=46825&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryvelocity.png",Discovery Velocity
+http://tv.cloudcdn.me:80/live.ts?channelId=126207&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/docurama.png",Docurama
+http://tv.cloudcdn.me:80/live.ts?channelId=126208&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/history.png",History 
+http://tv.cloudcdn.me:80/live.ts?channelId=46802&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/infowars.png",InfoWars
+http://tv.cloudcdn.me:80/live.ts?channelId=126209&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryid.png",Investigation Discovery 
+http://tv.cloudcdn.me:80/live.ts?channelId=126210&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nationalgeographic.png",National Geographic 
+http://tv.cloudcdn.me:80/live.ts?channelId=126212&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/oxygen.png",Oxygen
+http://tv.cloudcdn.me:80/live.ts?channelId=126214&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/scientologynetwork.png",Scientology Network
+http://tv.cloudcdn.me:80/live.ts?channelId=126216&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/travelchannel.png",Travel Channel
+http://tv.cloudcdn.me:80/live.ts?channelId=126217&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Nature" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/animalplanet.png",Animal Planet
+http://tv.cloudcdn.me:80/live.ts?channelId=126283&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Nature" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/wired2flash.png",Wired2Flash
+http://tv.cloudcdn.me:80/live.ts?channelId=126286&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/actionmax.png",ActionMax
+http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/moremax.png",MoreMax
+http://tv.cloudcdn.me:80/live.ts?channelId=126751&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/moviemax.png",MovieMax
+http://tv.cloudcdn.me:80/live.ts?channelId=126752&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/outermax.png",OuterMax
+http://tv.cloudcdn.me:80/live.ts?channelId=126755&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/comedycentral.png",Comedy Central
+http://tv.cloudcdn.me:80/live.ts?channelId=46820&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo.png",HBO
+http://tv.cloudcdn.me:80/live.ts?channelId=46801&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo2.png",HBO 2
+http://tv.cloudcdn.me:80/live.ts?channelId=126742&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbocomedy.png",HBO Comedy
+http://tv.cloudcdn.me:80/live.ts?channelId=126743&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbofamily.png",HBO Family
+http://tv.cloudcdn.me:80/live.ts?channelId=46824&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbosignature.png",HBO Signature
+http://tv.cloudcdn.me:80/live.ts?channelId=126744&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbozone.png",HBO Zone
+http://tv.cloudcdn.me:80/live.ts?channelId=46823&uid=13433&deviceMac=00:1A:79:00:97:A1
