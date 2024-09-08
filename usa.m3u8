@@ -2,136 +2,185 @@
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/aande.png",A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126200&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126200&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/anericanheroschannel.png",American Heroes Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126201&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126201&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cbsreality.png",CBS Reality
-http://tv.cloudcdn.me:80/live.ts?channelId=126202&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126202&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/courttv.png",Court TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126203&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126203&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/crimeplusinvestigation.png",Crime+ Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126204&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126204&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/curiositychannel.png",Curiosity Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126205&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126205&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discovery.png",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126206&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126206&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryscience.png",Discovery Science
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=46825&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=46825&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryvelocity.png",Discovery Velocity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126207&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126207&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/docurama.png",Docurama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126208&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126208&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/history.png",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=46802&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=46802&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/infowars.png",InfoWars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126209&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126209&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryid.png",Investigation Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126210&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126210&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nationalgeographic.png",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126212&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126212&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/oxygen.png",Oxygen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126214&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126214&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/scientologynetwork.png",Scientology Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126216&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126216&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/travelchannel.png",Travel Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126217&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126217&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+
+
 
 #EXTINF:-1 group-title="Nature" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/animalplanet.png",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126283&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126283&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Nature" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/wired2flash.png",Wired2Flash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126286&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126286&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+
+
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/5starmax.png",5 Star Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=126717&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/actionmax.png",ActionMax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/moremax.png",MoreMax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126751&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126751&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/moviemax.png",MovieMax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126752&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126752&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/outermax.png",OuterMax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126755&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126755&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/comedycentral.png",Comedy Central
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=46820&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=46820&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=46801&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=46801&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo2.png",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126742&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126742&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbocomedy.png",HBO Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126743&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126743&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbofamily.png",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=46824&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=46824&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbosignature.png",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126744&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126744&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbozone.png",HBO Zone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=46823&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=46823&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/movieplex.png",MoviePlex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=126753&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/retroplex.png",RetroPlex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=126758&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymovies.png",Sony Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=126763&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/espn.png",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126136&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126136&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/espn1.png",ESPN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=46827&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=46827&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/espn2.png",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=46828&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=46828&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/espn3.png",ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=126137&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=126137&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+
+
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/bbcworldnews.png",BBC World News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=47112&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cnnnews.png",CNN News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=50&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+
+
+
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/mtv.png",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=126239&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/vh1.png",VH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=46811&uid=8982&deviceMac=00:1A:79:A5:D6:5B
