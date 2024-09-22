@@ -1,13 +1,13 @@
 #EXTM3U
-##EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/aljazeera.png",Al Jazeera (Eng)
+#EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/aljazeera.png",Al Jazeera (Eng)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/animalplanet.png",Animal Planet (IN)
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/animalplanet.png",Animal Planet HD (IN)
 http://103.84.57.155:8000/play/a09l/index.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discovery.png",Discovery Channel (IN)
-http://103.84.57.155:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discovery.png",Discovery HD (IN)
+http://103.84.57.155:8000/play/a00y/index.m3u8
 
 ##EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discovery.png",Discovery Channel (BD)
 #http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=846967&extension=ts
@@ -18,19 +18,22 @@ http://103.84.57.155:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryscience.png",Discovery Science (IN)
 http://103.84.57.155:8000/play/a0bw/index.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nationalgeographic.png",National Geographic HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryturbo.png",Discovery Turbo (IN)
+http://103.84.57.155:8000/play/a0bx/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nationalgeographic.png",National Geographic HD (IN)
 http://103.84.57.155:8000/play/a00x/index.m3u8
 
 ##EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/natgeowild.png",Nat Geo Wild
 #http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=22874&extension=ts
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/historytv18.png",History TV18 HD(IN)
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/historytv18.png",History TV18 HD (IN)
 http://103.84.57.155:8000/play/a09n/index.m3u8
 
 ##EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/travelxp.png",Travel XP (IN)
 #http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631791&extension=ts
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/tlc.png",TLC (IN)
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/tlc.png",TLC HD (IN)
 http://103.84.57.155:8000/play/a00s/index.m3u8
 
 
@@ -39,26 +42,35 @@ http://103.84.57.155:8000/play/a00s/index.m3u8
 ##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/boomerang.png", Boomerang 
 #http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=292432&extension=ts
 
-##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cartoonnetwork.png",Cartoon Network (IN)
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cartoonnetwork.png",Cartoon Network (IN)
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
-##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/disneychannel.png", Disney Channel (USA)
-#http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631152&extension=ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/disneychannel.png", Disney Channel (IN)
+http://103.84.57.155:8000/play/a03u/index.m3u8
 
 ##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/disneyxd.png", Disney XD (USA)
 #http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631154&extension=ts
 
-##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/disneyjunior.png", Disney Junior (USA)
-#http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=630896&extension=ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/disneyjunior.png", Disney Junior (IN)
+http://103.84.57.155:8000/play/a03x/index.m3u8
 
-##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/pogo.png",Pogo (IN)
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoverykids.png", Discovery Kids (IN)
+http://103.84.57.155:8000/play/a050/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/pogo.png",Pogo (IN)
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
-##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nick.png", Nickelodeon
-#http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=13914&extension=ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hungama.png", Hungama TV (IN)
+http://103.84.57.155:8000/play/a03t/index.m3u8
 
-##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonic.png",Nickelodeon Sonic (IN)
-#http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631725&extension=ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nick.png", Nickelodeon (IN)
+http://103.84.57.155:8000/play/a03v/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nickjr.png", Nickelodeon Junior (IN)
+http://103.84.57.155:8000/play/a042/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonic.png",Nickelodeon Sonic (BD)
+http://103.84.57.155:8000/play/a03y/index.m3u8
 
 ##EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonyyay.png", Sony Yay (IN)
 #http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=631740&extension=ts
@@ -116,19 +128,19 @@ http://103.84.57.155:8000/play/a09u/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonytv.png",Sony TV
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonytv.png",Sony TV HD
 http://103.84.57.155:8000/play/a084/index.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax.png",Sony Max
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax.png",Sony Max HD
 http://103.84.57.155:8000/play/a02b/index.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax2.png",Sony Max 2
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax2.png",Sony Max 2 HD 
 http://103.84.57.155:8000/play/a0cc/index.m3u8
 
 ##EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonypal.png",Sony Pal
 #http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=770949&extension=ts
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysab.png",Sony Sab
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysab.png",Sony Sab HD
 http://103.84.57.155:8000/play/a0a8/index.m3u8
 
 ##EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonywah.png",Sony Wah
@@ -218,18 +230,18 @@ http://103.84.57.155:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starsports2hd.png",Star Sports 2 HD
 http://103.84.57.155:8000/play/a026/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports1.png", Sony Sports 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysportsten1.png", Sony Sports Ten 1 HD
 http://103.84.57.155:8000/play/a027/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports2.png", Sony Sports 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysportsten2.png", Sony Sports Ten 2 HD
 http://103.84.57.155:8000/play/a0a0/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports3.png", Sony Sports 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysportsten3.png", Sony Sports Ten 3 HD
 http://103.84.57.155:8000/play/a02q/index.m3u8
 
-###EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports4.png", Sony Sports 4 HD
+###EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysportsten4.png", Sony Sports Ten 4 HD
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysports5.png", Sony Sports 5 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysportsten5.png", Sony Sports Ten 5 HD
 http://103.84.57.155:8000/play/a028/index.m3u8
 
 ##EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sports18.png",Sports 18 HD
@@ -237,11 +249,11 @@ http://103.84.57.155:8000/play/a028/index.m3u8
 
 ###EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/tsports.png",T Sports HD
 
-##EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png",BEIN Sports 1 HD (Eng)
-#http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=536383&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png",BEIN Sports 1 HD (Eng)
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
-##EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png",BEIN Sports 2 HD (Eng)
-#http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=536384&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png",BEIN Sports 2 HD (Eng)
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
 ##EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports3.png",BEIN Sports 3 HD (Eng)
 #http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=536385&extension=ts
